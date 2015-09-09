@@ -2,11 +2,11 @@
 
 This is the working area for the IETF SACM Requirements draft.
 
-* [Working Group Draft] (https://tools.ietf.org/html/draft-ietf-sacm-use-cases)
+* [RFC 7632] (https://tools.ietf.org/html/rfc7632)
 
 ## Document Status
 
-This document is stable and is in the RFC Editors Queue for publishing as an RFC.
+This document is completed and has been published as an informational RFC.  At this time there are no plans to create a new version of this document.
 
 ## Contributing
 
